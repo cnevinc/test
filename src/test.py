@@ -2,5 +2,6 @@
 
 
 if __name__ == '__main__':
-    x = 'hello'
+    x = 'hello '
+    y = 'world'
     print("TEST")
